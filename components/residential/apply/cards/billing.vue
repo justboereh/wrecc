@@ -49,7 +49,7 @@
 
                 <img
                     class="h-5"
-                    src="/KentuckyLiving logo.png"
+                    src="/img/KentuckyLiving logo.png"
                     alt="KentuckyLiving logo"
                 />
 
