@@ -17,4 +17,9 @@ export default defineNuxtConfig({
         },
     },
     experimental: { payloadExtraction: false },
+    build: {
+        rollupOptions: {
+            external: ['/img/KentuckyLiving logo.png'],
+        },
+    },
 })
