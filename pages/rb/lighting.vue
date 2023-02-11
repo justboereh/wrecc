@@ -2,7 +2,7 @@
     <main>
         <page-header>Lighting</page-header>
 
-        <page-content grid>
+        <page-content spacing>
             <p>
                 Warren RECC offers many ways to use lighting to improve the
                 quality of life while providing safety and security for homes or
@@ -40,7 +40,7 @@
             </div>
         </page-content>
 
-        <page-content grid>
+        <page-content spacing>
             <p>
                 Rates shown are for lights on existing poles. The charge for an
                 additional pole or transformer will be $2.50 per month, plus a
@@ -87,7 +87,7 @@
             </div>
         </page-content>
 
-        <page-content grid>
+        <page-content spacing>
             <p>
                 A high quality, utility grade light fixture is installed and
                 maintained by the Cooperative. The monthly charge also includes

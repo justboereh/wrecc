@@ -5,7 +5,7 @@
             v-bind="useAttrs()"
             :class="`${effects ? 'border border-light-900 bg-white' : ''} ${
                 padding ? 'p-4' : ''
-            } ${grid ? 'grid gap-4' : ''}`"
+            } ${grid ? 'flex flex-col gap-4' : ''}`"
         >
             <slot />
         </div>
@@ -13,5 +13,5 @@
 </template>
 
 <script setup>
-defineProps({ effects: Boolean, padding: Boolean, grid: Boolean })
+defineProps({ effects: Boolean, padding: Boolean, spacing: Boolean })
 </script>

@@ -12,7 +12,7 @@
             </div>
         </page-content>
 
-        <page-content grid>
+        <page-content spacing>
             <p class="text-sm">*Add 3 percent school tax</p>
 
             <p>Effective: October 1, 2022</p>

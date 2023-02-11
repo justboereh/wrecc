@@ -1,6 +1,6 @@
 <template>
     <div
-        class="font-bold text-3xl p-4 relative"
+        class="font-bold text-3xl p-4 relative overflow-x-hidden"
         :class="`${white ? '' : 'text-white h-40'}`"
     >
         <div

@@ -2,7 +2,7 @@
     <main>
         <page-header>Developers / Contractors</page-header>
 
-        <page-content grid>
+        <page-content spacing>
             <p>
                 Setting up regular lines of communication is an effective way to
                 maintain your building schedule. It is our desire to meet your

@@ -2,7 +2,7 @@
     <main>
         <page-header>Engineering Services</page-header>
 
-        <page-content grid>
+        <page-content spacing>
             <h1>Electric Bill Analysis</h1>
 
             <p>

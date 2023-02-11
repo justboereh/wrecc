@@ -2,7 +2,7 @@
     <main>
         <page-header scale> Economic Development </page-header>
 
-        <page-content grid>
+        <page-content spacing>
             <iframe
                 ref="iFrameElement"
                 class="w-full aspect-video border border-light-900"

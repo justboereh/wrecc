@@ -37,7 +37,7 @@
 
         <br />
 
-        <page-content grid>
+        <page-content spacing>
             <h1>Community Action Agencies</h1>
 
             <p>

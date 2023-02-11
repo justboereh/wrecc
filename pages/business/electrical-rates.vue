@@ -19,7 +19,7 @@
             </div>
         </page-card>
 
-        <page-content grid>
+        <page-content spacing>
             <p class="text-sm">
                 *Add 3 percent school tax; Add 6 percent Kentucky sales tax; For
                 rate schedules of greater than 5,000 kW, contact Warren RECC.

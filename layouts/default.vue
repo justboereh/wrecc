@@ -5,10 +5,8 @@
 
         <slot />
 
-        
-
         <footer
-            class="w-full py-8 mt-8 grid place-items-center bg-blue text-white font-semibold"
+            class="w-full py-8 mt-8 grid place-items-center text-blue font-semibold"
         >
             Service is what we do for you!
         </footer>

@@ -49,7 +49,7 @@
 
         <page-header scale white> Apply for SRS</page-header>
 
-        <page-content effects grid padding>
+        <page-content effects spacing padding>
             <div class="grid sm:grid-cols-2 gap-4">
                 <w-input name="Account Number" />
 
